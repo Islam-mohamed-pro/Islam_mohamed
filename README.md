@@ -1,63 +1,53 @@
-<h1 align="center">Hi 👋, I'm Islam Mohamed</h1>
-<h3 align="center">🚀 Flutter Developer | DevOps & Cloud Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Islam+Mohamed;Flutter+Developer;I+build+mobile+apps+with+clean+UI;Always+learning+and+improving)](https://git.io/typing-svg)
+
+<h3 align="center">Flutter Developer</h3>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif">
 
-### 👨‍💻 About Me
-- 💻 I'm passionate about **IT & Software Development**
-- 📱 Currently focusing on **Flutter Development**
-- ☁️ Learning **DevOps & Cloud (Docker, CI/CD, Linux)**
-- 🧠 Always improving my problem-solving skills
-- 🔥 I believe: *"Consistency beats talent"*
+### About Me
+I focus on building mobile apps using Flutter with clean UI and smooth performance.  
+I enjoy turning ideas into real applications and improving my skills every day.
 
 ---
 
-### 🚀 Current Focus
-- 🔹 Building real-world Flutter apps  
-- 🔹 Learning DevOps tools (Docker, GitHub Actions)  
-- 🔹 Preparing strong portfolio for freelancing  
+### What I'm Working On
+- Building Flutter apps  
+- Improving UI/UX  
+- Learning better architecture and state management  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,git,github,docker,linux,firebase,mysql" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-🔹 **Smart Waste to Energy System**  
-> Graduation project about converting agricultural waste into sustainable energy ⚡  
-
-🔹 **Flutter Apps (Coming Soon...)**  
-> Clean UI, responsive apps, real-world ideas  
+### Projects
+- Task Management App  
+- E-commerce App  
+- More projects coming soon  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: islam.flutter.25@gmail.com  
-- 💼 LinkedIn: (حط اللينك بتاعك هنا)  
+### Contact
+- Email: islam.flutter.dev@gmail.com  
+- LinkedIn: (your link)
 
 ---
 
-### 💡 Quote I Live By
-> "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
-
----
-
-<h3 align="center">🔥 Keep Learning | Keep Building | Never Give Up 🔥</h3>
-
+<h3 align="center">Keep building.</h3>
